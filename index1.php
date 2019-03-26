@@ -5,11 +5,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <link href="/Lab1/site.css" rel="stylesheet"/>
-    <title>Xếp loại kết quả sinh viên</title>
+    <title>XÉT KẾT QUẢ</title>
 </head>
 <body>
     <div id="wrapper">
-        <h2>Xếp loại kết quả sinh viên</h2>
+        <h2>Thông tin chi tiết xét kết quả sinh viên</h2>
         <form action="#" method="post">
             <div class="row">
                 <div class="lbltitle">
